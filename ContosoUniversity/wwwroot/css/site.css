@@ -1,9 +1,6 @@
-﻿@import url('https://fonts.googleapis.com/css?family=Ubuntu');
-
-body {
+﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar
@@ -13,14 +10,6 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
-}
-
-nav {
-    background-color: dodgerblue;
-}
-
-.jumbotron {
-    background-color: darkblue;
 }
 
 /* Carousel */
@@ -45,10 +34,4 @@ nav {
     .carousel-caption {
         display: none;
     }
-}
-
-div img {
-    max-width: 100%;
-    height: auto;
-    position: absolute;
 }
